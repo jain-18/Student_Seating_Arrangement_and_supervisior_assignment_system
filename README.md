@@ -19,11 +19,11 @@ Till now we have implemented the following features:-
 - **GUI Framework**: Java Swing
 - **Database**: MySQL (or another relational database system)
 
-## Installation
 
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
 - MySQL (or another relational database system)
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse) is recommended for development
+
 
